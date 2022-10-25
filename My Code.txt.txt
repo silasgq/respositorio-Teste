@@ -1,2 +1,3 @@
-Olá, meu nome é Silas
+Olá, meu nome é Silas.
 Olá, eu sou um nova linha.
+Olá, fiz outra alteração.
